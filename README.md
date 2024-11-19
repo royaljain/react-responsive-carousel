@@ -10,6 +10,11 @@ Powerful, lightweight and fully customizable carousel component for React apps.
 
 I don't have any time available to keep maintaining this package. If you have any request, try to sort it within the community. I'm able to merge pull requests that look safe from time to time but no commitment on timelines here. Feel free to fork it and publish under other name if you are in a hurry or to use another component.
 
+### React Responsive Carousel AI Bot
+
+[React Responsive Carousel](https://codeparrot.ai/oracle?owner=leandrowd&repo=react-responsive-carousel) Bot will help you understand this repository better. You can ask for code examples, installation guide, debugging help and much more.
+
+
 ### Features
 
 -   Responsive
